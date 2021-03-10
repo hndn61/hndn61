@@ -6,7 +6,7 @@
 
 The company I work for, corporate while contributing to its development, I want to improve myself in the best way possible. I aim to program new projects freely and with pleasure and do good work for myself and society.
 
-🌱 I’m currently learning everything 🤣
+🌱 I’m currently learning everything :closed_book:
 
 ***Languages*** :
 
