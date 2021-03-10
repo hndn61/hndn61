@@ -12,7 +12,8 @@ The company I work for, corporate while contributing to its development, I want 
 
 ***Connect with me:***
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/handangunaydinn/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/handangunaydinn/) [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=blue&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/handan-g%C3%BCnayd%C4%B1n-05a348182/?msgConversationId=6573569308167933952&msgOverlay=true)
+
 
 
 
