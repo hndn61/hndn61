@@ -1,6 +1,6 @@
 ## Hello <img src="" width="auto">, I'm Handan
 
-**A young, dynamic and enthusiastic computer engineer**
+**A young, dynamic and enthusiastic computer engineer :+1:**
 
 ***My Career Goal*** 
 
