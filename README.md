@@ -1,4 +1,4 @@
-## Hello <img src="" width="auto">, I'm Handan
+## Hello <img src="https://github.com/hndn61/hndn61/blob/main/merhaba.jpg" width="50px">, I'm Handan
 
 **A young, dynamic and enthusiastic computer engineer**
 
