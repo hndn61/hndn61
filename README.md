@@ -1,6 +1,6 @@
-## Hello <img src="" width="auto">, I'm Handan
+<h1 align="center"> Hello <img src="merhaba.jpg" width="40px">, I'm Handan </h1>
 
-**A young, dynamic and enthusiastic computer engineer :muscle:**
+<h3 align="center"> A young, dynamic and enthusiastic computer engineer :muscle: </h3>
 
 ***My Career Goal*** 
 
@@ -10,7 +10,7 @@ The company I work for, corporate while contributing to its development, I want 
 
 ***Languages*** :
 
-<img src="" width="auto"> <img src="" width="auto"> <img src="" width="auto"> <img src="" width="auto"> <img src="" width="auto">
+
 
 ***Connect with me:***
 
